@@ -4,7 +4,7 @@
 
 ## I'm training to make words come to life! :mage: :man_technologist:
 - 🌱
- I’m currently learning Full Stack Web Development at SE Factory
+ I’m currently learning Full Stack Web Development
  
 - 👯
  I’m looking to collaborate with other students on the path
