@@ -1,4 +1,4 @@
-# 👋 Heyo, I'm Michel - Future Software Developer 
+# 👋 Hey there, I'm Michel - Future Software Developer 
 
  
 
