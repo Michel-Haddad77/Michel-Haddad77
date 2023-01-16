@@ -2,14 +2,14 @@
 
  
 
-## I'm training to make words come to life! :mage: :man_technologist:
+## I make words come to life! :mage: :man_technologist:
 - 🌱
- I’m currently learning Full Stack Web Development
+ I’m a Full Stack Web Developer
  
 - 👯
- I’m looking to collaborate with other students on the path
+ I’m looking to collaborate with other developers
 - 🥅
- 2022 Goal: Become a software developer
+ 2023 Goal: Become AWS certified
 - 📫
  You can reach me on:
 &nbsp;&nbsp;
