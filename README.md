@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Michel - Future Software Developer 
+# 👋 Hey there, I'm Michel - Full-Stack Web Developer
 
  
 
