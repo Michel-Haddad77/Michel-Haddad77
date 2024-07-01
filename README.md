@@ -9,12 +9,9 @@
 - 👯
  I’m looking to collaborate with other developers
 - 🥅
- 2023 Goal: Become AWS certified
+ 2024 Goal: Become AWS certified
 - 📫
- You can reach me on:
-&nbsp;&nbsp;
-[LinkedIn](https://www.linkedin.com/in/michel-haddad-238ab9183#gh-light-mode-only)
-[LinkedIn](https://www.linkedin.com/in/michel-haddad-238ab9183/#gh-dark-mode-only)
+ You can reach me on: [LinkedIn](https://www.linkedin.com/in/michelhaddad77/)
 
 ### Languages and Tools:
 
@@ -22,9 +19,12 @@
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Typescript" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="React" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/react/react-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
+<img align="left" alt="GitHub" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/github/github-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Postman" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postman/postman-original.svg" style="padding-right:10px;" />
 
 <!---
 Michel-Haddad77/Michel-Haddad77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
