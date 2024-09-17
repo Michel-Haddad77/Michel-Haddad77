@@ -1,4 +1,4 @@
-# Hi, I'm Michel Haddad 👋 and I make words come to life! :mage: :man_technologist:
+# Hi, I'm Michel Haddad and I make words come to life! :mage: :man_technologist:
 
 I'm a Full-Stack Developer specializing in modern web technologies, including React, Next.js, Node.js, and more. I'm passionate about building scalable, efficient, and user-friendly web applications.
 
