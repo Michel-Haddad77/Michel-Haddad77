@@ -1,33 +1,24 @@
-# 👋 Hey there, I'm Michel - Full-Stack Web Developer
+# Hi, I'm Michel Haddad 👋 and I make words come to life! :mage: :man_technologist:
 
- 
+I'm a Full-Stack Developer specializing in modern web technologies, including React, Next.js, Node.js, and more. I'm passionate about building scalable, efficient, and user-friendly web applications.
 
-## I make words come to life! :mage: :man_technologist:
-- 🌱
- I’m a Full Stack Web Developer
- 
-- 👯
- I’m looking to collaborate with other developers
-- 🥅
- 2024 Goal: Become AWS certified
-- 📫
- You can reach me on: [LinkedIn](https://www.linkedin.com/in/michelhaddad77/)
+---
 
-### Languages and Tools:
+### 📫 Contact Me:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Typescript" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="React" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/react/react-original.svg" style="padding-right:10px;" />
-<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/github/github-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Postman" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postman/postman-original.svg" style="padding-right:10px;" />
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:michelhdd27@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michel-haddad)
 
-<!---
-Michel-Haddad77/Michel-Haddad77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-[website]: https://codeSTACKr.com
+---
+
+### 🚀 Languages and Tools:
+
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
+[![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
+[![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)](https://mui.com/)
